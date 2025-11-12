@@ -7,7 +7,7 @@ module.exports.replies = {
   projects: [
     "🚀 **Projects:** Ashish has built full-stack applications using **React**, **Node.js**, and **Express** — including dynamic portfolios and creative UI systems.",
     "🎨 His projects often combine **Tailwind CSS**, **Framer Motion**, and modern React hooks to craft elegant, high-performance interfaces.",
-    "💼 Explore his portfolio: [🌐 Visit Portfolio](https://ashishkarche-portfolio.vercel.app)",
+    "💼 Explore his portfolio: [🌐 Visit Portfolio](https://portfolio-plum-alpha-60.vercel.app/)",
   ],
 
   skills: [
@@ -43,7 +43,7 @@ module.exports.replies = {
   social: [
     "💼 **LinkedIn:** [linkedin.com/in/ashishkarche](https://linkedin.com/in/ashishkarche)",
     "💻 **GitHub:** [github.com/ashishkarche](https://github.com/ashishkarche)",
-    "🌐 **Portfolio:** [ashishkarche-portfolio.vercel.app](https://portfolio-plum-alpha-60.vercel.app/)",
+    "🌐 **Portfolio:** [portfolio-plum-alpha-60.vercel.app](https://portfolio-plum-alpha-60.vercel.app/)",
   ],
 
   unknown: [
