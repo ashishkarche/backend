@@ -24,7 +24,7 @@ module.exports.replies = {
 
   contact: [
     "📧 **Email:** [ashishkarche9@gmail.com](mailto:ashishkarche9@gmail.com)",
-    "📞 **Phone:** [+91 9876543210](tel:+917498811353)",
+    "📞 **Phone:** [+91 7498811353](tel:+917498811353)",
     "💬 You can also reach out through his [🌐 Portfolio Contact Form](https://portfolio-plum-alpha-60.vercel.app/#contact).",
   ],
 
