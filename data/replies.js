@@ -1,53 +1,46 @@
 module.exports.replies = {
   greeting: [
-    "🤖 **Hey there!** I’m *Nova*, Ashish Karche’s personal AI assistant. What would you like to explore today?",
-    "✨ Hello! I’m Nova — here to guide you through Ashish’s projects, skills, and experience.",
+    "**🤖 Hey there! I'm *Lumi*, Ashish Karche’s friendly AI assistant.**\nHow can I help you today?",
+    "**✨ Hello! I'm Lumi — your guide to Ashish’s projects, skills, and experience.**",
   ],
 
   projects: [
-    "🚀 **Projects:** Ashish has built full-stack applications using **React**, **Node.js**, and **Express** — including dynamic portfolios and creative UI systems.",
-    "🎨 His projects often combine **Tailwind CSS**, **Framer Motion**, and modern React hooks to craft elegant, high-performance interfaces.",
-    "💼 Explore his portfolio: [🌐 Visit Portfolio](https://portfolio-plum-alpha-60.vercel.app/)",
+    "**🚀 Featured Projects**\nAshish has developed production-ready applications using **React**, **Node.js**, **Express**, and **PostgreSQL**.",
+    "📊 His notable work includes:\n- **ChotuLink** – Modern URL shortener with QR & analytics\n- **Structural Audit System** – Full workflow management tool\n- **DiseasePredict** – AI-based medical risk analysis\n\n➡️ *Explore all projects:* https://portfolio-plum-alpha-60.vercel.app/",
   ],
 
   skills: [
-    "💻 **Core Skills:** React, Node.js, Express, Tailwind CSS, PostgreSQL, Framer Motion, Redux, Context API.",
-    "⚡ Focus: building fast, scalable UIs and optimizing front-end performance.",
-    "🧠 Expertise in API integration, animations, and full-stack architecture.",
+    "**💻 Technical Skills**\n- React.js, Node.js, Express.js\n- PostgreSQL, MySQL, REST APIs\n- Java, JavaScript, HTML, CSS\n- Tailwind CSS & Framer Motion\n\n⚡ Focused on building fast, scalable UIs and optimized backend systems.",
+    "🧠 Experienced in API design, authentication, database modeling, and full-stack architecture.",
   ],
 
   experience: [
-    "📈 **Experience:** Ashish has hands-on experience in full-stack web development — from front-end UI design to backend API engineering.",
-    "🧩 His work includes responsive systems, REST APIs, and automation tools that enhance user experience and workflow efficiency.",
-    "🌟 He blends creativity with strong technical foundations for polished results.",
-  ],
-
-  contact: [
-    "📧 **Email:** [ashishkarche9@gmail.com](mailto:ashishkarche9@gmail.com)",
-    "📞 **Phone:** [+91 7498811353](tel:+917498811353)",
-    "💬 You can also reach out through his [🌐 Portfolio Contact Form](https://portfolio-plum-alpha-60.vercel.app/#contact).",
-  ],
-
-  about: [
-    "🤖 I’m *Nova*, an AI assistant built by **Ashish Karche**, a passionate full-stack developer and designer.",
-    "✨ Ashish loves crafting high-performance web applications that merge **creative visuals** with **technical excellence**.",
-    "🌍 Based in India, he’s focused on creating intuitive, modern digital experiences.",
+    "**📈 Web Developer Intern — CodeNucleus (2025)**\n- Built dynamic UI components improving workflow by **40%**\n- Optimized API endpoints reducing fetch time by **30%**\n- Improved application responsiveness and structure",
+    "**💼 Web Developer Intern — Let’s Grow More (2023)**\n- Delivered responsive and mobile-first interfaces\n- Implemented client-side validation and reusable components\n- Improved UX through clean design and accessibility",
   ],
 
   education: [
-    "🎓 **Education:** Bachelor’s Degree in Computer Science.",
-    "📚 Strong foundation in algorithms, web architecture, and design principles.",
-    "🏫 Continuously learning about new frameworks and UI/UX trends.",
+    "**🎓 Education**\nBachelor of Engineering (Computer Engineering) — *Ajeenkya D.Y. Patil School of Engineering (2020–2024)*",
+    "📚 Strong foundation in Algorithms, OS, DBMS, Networking, and DSA.",
+  ],
+
+  about: [
+    "**🤖 I'm *Lumi*, your AI partner representing Ashish Karche!**\nAshish is a passionate full-stack developer from Pune who loves crafting modern, high-performance web apps.",
+    "✨ His work combines **creative UI/UX** with **solid engineering principles**, resulting in polished digital experiences.",
+  ],
+
+  contact: [
+    "**📧 Email:** ashishkarche9@gmail.com",
+    "**📞 Phone:** +91 74988 11353",
+    "**🌐 Portfolio Contact Form:** https://portfolio-plum-alpha-60.vercel.app/#contact",
   ],
 
   social: [
-    "💼 **LinkedIn:** [linkedin.com/in/ashishkarche](https://linkedin.com/in/ashishkarche)",
-    "💻 **GitHub:** [github.com/ashishkarche](https://github.com/ashishkarche)",
-    "🌐 **Portfolio:** [portfolio-plum-alpha-60.vercel.app](https://portfolio-plum-alpha-60.vercel.app/)",
+    "**🔗 Social Links**\n- LinkedIn: https://linkedin.com/in/ashishkarche\n- GitHub: https://github.com/ashishkarche\n- Portfolio: https://portfolio-plum-alpha-60.vercel.app/",
   ],
 
   unknown: [
-    "🤔 I’m not sure I caught that. You can ask about Ashish’s *projects*, *skills*, *experience*, or *contact info*.",
-    "😅 Hmm, try something like — *“Show me your projects”* or *“What technologies does Ashish use?”*",
+    "**🤔 I'm not sure I understood that.**\nTry asking about *skills*, *projects*, *experience*, or *contact info*!",
+    "**😅 Hmm…** maybe try: _“Show me Ashish’s skills”_ or _“What projects has he built?”_",
   ],
 };
