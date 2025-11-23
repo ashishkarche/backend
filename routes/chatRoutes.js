@@ -1,5 +1,5 @@
-const express = require("express");
-const router = express.Router();
+//routes/chatRoutes.js
+const router = require("express").Router();
 const { handleChat } = require("../controllers/chatController");
 const apiLimiter = require("../utils/rateLimiter");
 
